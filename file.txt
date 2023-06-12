@@ -2,3 +2,4 @@
 Преподаватель
 SQL
 Data Engineer
+Python
